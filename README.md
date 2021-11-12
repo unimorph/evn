@@ -17,6 +17,7 @@ TBA
 ## Shared Tasks
 
 2020: [Typologically Diverse Morphological Inflection](https://www.aclweb.org/anthology/2020.sigmorphon-1.1/)
+
 2021: [SIGMORPHON 2021 Shared Task on Morphological Reinflection: Generalization Across Languages](https://aclanthology.org/2021.sigmorphon-1.25/)
 
 ## References
