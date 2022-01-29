@@ -1,6 +1,7 @@
 # Evenki (evn)
 
 Contains Evenki paradigms (verbs)
+Script: Latin
 
 
 ## Data
