@@ -24,6 +24,12 @@ TBA
 
 ## References
 ```
+@inproceedings{казакевич2013создание,
+  title={Создание мультимедийного аннотированного корпуса текстов как исследовательская процедура},
+  author={Казакевич, Ольга Анатольевна and Клячко, ЕЛ}
+}
+
+
 @inproceedings{vylomova2020sigmorphon,
   title={SIGMORPHON 2020 Shared Task 0: Typologically Diverse Morphological Inflection},
   author={Vylomova, Ekaterina and White, Jennifer and Salesky, Elizabeth and Mielke, Sabrina J and Wu, Shijie and Ponti, Edoardo Maria and Maudslay, Rowan Hall and Zmigrod, Ran and Valvoda, Josef and Toldova, Svetlana and others},
